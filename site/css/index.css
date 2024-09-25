@@ -1,0 +1,21 @@
+body{
+    margin: 35vh;
+    margin-left: 30vh;
+}
+.information{
+    display: flex;
+    
+    background-color: blanchedalmond;
+    border-radius: 15vh;
+}
+.email{
+    color: rgb(0, 0, 0);
+    align-self: center;
+    border-radius: 15vh;
+    left: 50vh;
+}
+.password{
+    color: rgb(0, 0, 0);
+    align-self: center;
+    border-radius: 15vh;
+}
